@@ -63,7 +63,7 @@ opnet-token-sale/
 ## Prerequisites
 
 - Node.js 20+
-- A funded wallet on OP_NET testnet — get testnet BTC from a [Signet faucet](https://signetfaucet.com/)
+- A funded wallet on OP_NET testnet — get testnet BTC from the [OP_NET faucet](https://faucet.opnet.org/)
 - An existing OP20 token contract address (the token you want to sell)
 - [OP_WALLET](https://chromewebstore.google.com/detail/opwallet/pmbjpcmaaladnfpacpmhmnfmpklgbdjb) browser extension for the frontend widget
 
