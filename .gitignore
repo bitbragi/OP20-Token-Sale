@@ -1,0 +1,14 @@
+# Environment — never commit secrets
+.env
+.env.*
+!.env.example
+
+# Build output
+contract/build/
+contract/node_modules/
+node_modules/
+
+# Editor
+.cursor/
+.vscode/
+*.log

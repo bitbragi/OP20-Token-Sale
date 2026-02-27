@@ -1,0 +1,17 @@
+{
+  "name": "@opnet/token-sale-contract",
+  "version": "1.0.0",
+  "description": "Generic OP_NET native BTC token sale contract (AssemblyScript)",
+  "type": "module",
+  "scripts": {
+    "build": "asc src/index.ts --target release --measure --uncheckedBehavior never",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "@assemblyscript/loader": "^0.28.9",
+    "@btc-vision/as-bignum": "^0.1.2",
+    "@btc-vision/assemblyscript": "^0.29.2",
+    "@btc-vision/btc-runtime": "^1.11.0-rc.10",
+    "@btc-vision/opnet-transform": "^1.2.0"
+  }
+}
